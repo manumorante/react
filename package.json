@@ -1,22 +1,22 @@
 {
-  "name": "react",
-  "version": "1.0.0",
-  "description": "React base project",
-  "main": "index.js",
+  "name": "static-boosted",
+  "version": "0.0.1",
+  "description": "Boilerplate to static sites with Webpack, React and Bootstrap",
+  "main": "entry.js",
   "scripts": {
     "watch": "webpack --progress --colors --watch",
     "build": "webpack --progress --colors"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/manumorante/react.git"
+    "url": "git+https://github.com/manumorante/static-boosted.git"
   },
   "author": "",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/manumorante/react/issues"
+    "url": "https://github.com/manumorante/static-boosted/issues"
   },
-  "homepage": "https://github.com/manumorante/react#readme",
+  "homepage": "https://github.com/manumorante/static-boosted#readme",
   "devDependencies": {
     "babel-core": "^6.21.0",
     "babel-loader": "^6.2.10",
@@ -28,7 +28,8 @@
     "node-sass": "^4.1.1",
     "sass-loader": "^4.1.1",
     "style-loader": "^0.13.1",
-    "webpack": "^1.14.0"
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
   },
   "dependencies": {
     "react": "^15.4.1",
