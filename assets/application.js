@@ -71,15 +71,15 @@
 
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-	var Test = function Test() {
+	var Hello = function Hello() {
 	  return _react2.default.createElement(
 	    'div',
-	    null,
-	    'Entra'
+	    { className: 'class-name-example' },
+	    'Hello World!'
 	  );
 	};
 
-	_reactDom2.default.render(_react2.default.createElement(Test, null), document.getElementById('root'));
+	_reactDom2.default.render(_react2.default.createElement(Hello, null), document.getElementById('root'));
 
 /***/ },
 /* 3 */

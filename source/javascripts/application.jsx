@@ -1,11 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-var Test = () => {
-  return(<div>Entra</div>);
+const Hello = () => {
+  return (
+    <div className="class-name-example">Hello World!</div>
+  );
 };
 
 ReactDOM.render(
-<Test />,
+  <Hello />,
   document.getElementById('root')
 );

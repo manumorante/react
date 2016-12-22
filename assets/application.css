@@ -1,7 +1,7 @@
 .lib {
   display: block; }
 
-.foo {
-  display: inline-block; }
-  .foo .bar {
-    display: block; }
+.main-jumbotron {
+  color: white;
+  background: url("https://source.unsplash.com/2fgvaQX-FXs");
+  background-size: cover; }
