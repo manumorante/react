@@ -1,8 +1,9 @@
 # Static Boosted
 
-![motivation on](https://img.shields.io/badge/motivation-on-green.svg)
-
 Boilerplate to static sites with Webpack, React and Bootstrap
+
+![motivation on](https://img.shields.io/badge/motivation-on-green.svg) ![motivation on](https://img.shields.io/badge/beers-accepted-yellow.svg)
+
 
 ## Install
 
