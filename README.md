@@ -16,3 +16,7 @@ $ npm run watch
 ```
 $ node_modules/.bin/webpack-dev-server
 ```
+
+Visit the preview page here:
+
+https://manumorante.github.io/static-boosted/
