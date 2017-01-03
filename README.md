@@ -2,7 +2,7 @@
 
 Boilerplate to create static sites with Webpack, React and Bootstrap
 
-[![motivation on](https://img.shields.io/badge/motivation-on-green.svg?style=flat-square)]() ![beers accepted](https://img.shields.io/badge/beers-accepted-yellow.svg?style=flat-square)
+[![Build Status](https://travis-ci.org/manumorante/static-boosted.svg?branch=master)](https://travis-ci.org/manumorante/static-boosted) [![motivation on](https://img.shields.io/badge/motivation-on-green.svg?style=flat-square)]() ![beers accepted](https://img.shields.io/badge/beers-accepted-yellow.svg?style=flat-square)
 
 ## Install
 
