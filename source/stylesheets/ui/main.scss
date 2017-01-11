@@ -1,18 +1,10 @@
 // main
-.test  {
-  border: 0px;
-  
+$$strong-color: #f00;
 
+.test {
+  border: 0;
 }
 
-div {
-  p {
-    a {
-      span {
-        strong {
-          color: red;
-        }
-      }
-    }
-  }
+.my-strong {
+  color: $strong-color;
 }
