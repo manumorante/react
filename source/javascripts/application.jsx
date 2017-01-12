@@ -1,13 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-const Hello = () => {
-  return (
-    <div className="class-name-example">Hello World!</div>
-  );
-};
+import Hello from './modules/Hello'
+import Row from './modules/Row'
+import Col from './modules/Col'
 
 ReactDOM.render(
-  <Hello />,
+  <Row>
+    <Col />
+    <Col />
+    <Col />
+  </Row>,
   document.getElementById('root')
 );
