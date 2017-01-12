@@ -1,1 +1,10 @@
 // main
+$strong-color: #f00;
+
+.test {
+  border: 0;
+}
+
+.my-strong {
+  color: $strong-color;
+}
